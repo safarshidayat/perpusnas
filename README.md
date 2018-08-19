@@ -1,2 +1,2 @@
 # perpusnas
-Sistem Pendataan Perpustakaan Berbasis Wilayan di Indonesia
+Sistem Pendataan Perpustakaan Berbasis Wilayah di Indonesia
